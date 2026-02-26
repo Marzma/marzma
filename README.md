@@ -29,6 +29,16 @@ With experience in multi-modal data modeling, pattern recognition, and user beha
 
 ## 📌 Featured Projects
 
+### 🧪 Machine Learning Classification Pipeline
+End-to-end classification workflow for structured multi-dimensional data  
+- PCA-based dimensionality reduction and visualization  
+- Random Forest & KNN modeling with performance comparison  
+- Feature importance analysis for interpretability  
+- Reproducible ML pipeline design  
+
+👉 [Project Link](https://github.com/Marzma/archaeology-ml-classification)
+
+
 ### 🎵 Digital Music Cold-Start Recommendation
 Hybrid recommender built on Amazon Reviews'23 Digital Music dataset  
 - Item-based Collaborative Filtering  
@@ -36,28 +46,9 @@ Hybrid recommender built on Amazon Reviews'23 Digital Music dataset
 - Temporal evaluation (leave-last-out)  
 - Cold-start simulation  
 
-👉 [Project Link](https://github.com/YOUR_USERNAME/recommendation-amazon2023-digital-music-coldstart)
+👉 [Project Link](https://github.com/Marzma/recommendation-amazon2023-digital-music-coldstart-metadata.ipynb)
 
 ---
-
-### 🤖 Machine Learning Classification Pipeline
-End-to-end ML workflow for structured data classification  
-- PCA visualization  
-- Random Forest & KNN modeling  
-- Feature importance analysis  
-- Reproducible ML pipeline  
-
-👉 [Project Link](https://github.com/YOUR_USERNAME/archaeology-ml-classification)
-
----
-
-### 📚 Recommendation System Demo
-Item-based collaborative filtering with offline evaluation  
-- User-item interaction matrix  
-- Precision@K / Recall@K evaluation  
-- Popularity baseline comparison  
-
-👉 [Project Link](https://github.com/YOUR_USERNAME/recommendation-system-demo)
 
 ---
 
@@ -71,4 +62,4 @@ Item-based collaborative filtering with offline evaluation
 
 ## 📫 Connect with Me
 📧 zhe.ma@durham.ac.uk  
-🌐 LinkedIn: (optional)  
+🌐 LinkedIn: https://www.linkedin.com/in/marzma0822/

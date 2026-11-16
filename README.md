@@ -38,8 +38,16 @@ End-to-end classification workflow for structured multi-dimensional data
 
 👉 [Project Link](https://github.com/Marzma/archaeology-ml-classification)
 
-### [Resilient Swarm Maestro](https://github.com/shahman21/resilient-swarm-maestro)
-DurHack team project · Contributor
+### Resilient Swarm Maestro
+
+DurHack 2026 team project demonstrating how a physical mBot2 and four virtual robots stay in motion through network interruptions and resynchronize when connectivity returns.
+
+- Led development of the browser-based dashboard and digital twin
+- Visualized the estimated motion of the physical robot alongside four virtual robots using HTML5 Canvas
+- Displayed live packet delivery rates and synchronization drift using WebSocket telemetry
+- Built interactive controls to simulate packet loss and network blackouts during the live demo
+
+👉 [Project Link](https://github.com/shahman21/resilient-swarm-maestro)
 
 ### 🎵 Digital Music Cold-Start Recommendation
 Hybrid recommender built on Amazon Reviews'23 Digital Music dataset  

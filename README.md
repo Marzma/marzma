@@ -38,6 +38,8 @@ End-to-end classification workflow for structured multi-dimensional data
 
 👉 [Project Link](https://github.com/Marzma/archaeology-ml-classification)
 
+### [Resilient Swarm Maestro](https://github.com/shahman21/resilient-swarm-maestro)
+DurHack team project · Contributor
 
 ### 🎵 Digital Music Cold-Start Recommendation
 Hybrid recommender built on Amazon Reviews'23 Digital Music dataset  
